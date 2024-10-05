@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "718d85812ccea1a3",
+        "id": "fe6bf0b0479fa847",
         "type": "tabs",
         "children": [
           {
-            "id": "c242439f00f76534",
+            "id": "f77804ba71aa9a07",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "linux/commands/taskset.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/commands/taskset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/commands/taskset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/commands/taskset.md"
+              }
             }
           },
           {
@@ -155,11 +163,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c242439f00f76534",
+  "active": "f77804ba71aa9a07",
   "lastOpenFiles": [
-    "linux/Linux.md",
+    "linux/commands/taskset.md",
+    "c/gcc.md",
     "c/c.md",
-    "Untitled",
+    "linux/Linux.md",
+    "linux/commands/vim.md",
+    "Untitled.md",
+    "linux/commands",
     "computer hardware",
     "c",
     "linux",

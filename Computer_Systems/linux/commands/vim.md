@@ -1,0 +1,2 @@
+#linux_command 
+**`vi` (or `vim`)**: A more advanced editor with powerful text manipulation commands. It’s the preferred tool for many Linux power users. Mastering `vi` gives you a lot of control over file editing from the command line.

@@ -1,3 +1,5 @@
+#c_command
+
 C is a **general-purpose programming language** that was originally created in the early 1970s by Dennis Ritchie at Bell Labs. It is known for being powerful and efficient, often referred to as a "low-level" language because it gives programmers significant control over system resources like memory and CPU usage.
 
 Key features of C:
