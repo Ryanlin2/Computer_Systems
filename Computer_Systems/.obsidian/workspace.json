@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "daf5fa3bd3dfd65b",
+        "id": "718d85812ccea1a3",
         "type": "tabs",
         "children": [
           {
-            "id": "2b020d1331c63179",
+            "id": "c242439f00f76534",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -155,8 +155,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "be12c9d9ba1ecd49",
+  "active": "c242439f00f76534",
   "lastOpenFiles": [
+    "linux/Linux.md",
+    "c/c.md",
+    "Untitled",
     "computer hardware",
     "c",
     "linux",
