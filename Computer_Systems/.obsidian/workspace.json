@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "6686b80f0a49e23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "daf5fa3bd3dfd65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b020d1331c63179",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "018f92aba8fbed8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "22e0d1a4e9a42edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be12c9d9ba1ecd49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27696f75b5dfc22f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38ed18f9824ef191",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eeb897cdb170a9d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "81adbd58cd1186c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "852a654f9627ff2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "285e2d8d637084fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d31cd6de0fadcaae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "652bceeb502deb58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffd5aee566f1dc61",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fce29c8ceebf147",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "be12c9d9ba1ecd49",
+  "lastOpenFiles": [
+    "computer hardware",
+    "c",
+    "linux",
+    "note a.md",
+    "note b.md",
+    "note d.md",
+    "note c.md",
+    "Welcome.md"
+  ]
+}
