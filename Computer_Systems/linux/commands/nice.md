@@ -1,0 +1,1 @@
+The `nice` command allows you to **adjust the niceness (priority) of a process** when you start it. A process started with `nice` gets less CPU time (if you give it a positive nice value) or more CPU time (if you reduce its nice value). By default, `nice` increases the niceness of a process, giving it lower priority.

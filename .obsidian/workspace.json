@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "5295169a08d34e12",
+    "type": "split",
+    "children": [
+      {
+        "id": "418ae8d3b5fe9bfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ddb88afc390c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Systems/linux/commands/nice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16b8f17403d9dbd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Systems/linux/commands/taskset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0812dc14e4879e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Systems/linux/commands/vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed5b03d65850bafd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c40c1decea31894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3853468befc05166",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eb59338ab7e4d3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03f2947587abf434",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "720def5df4745104",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9a8b2c0e51efe10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24abf94e2779815e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer_Systems/linux/commands/nice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e80e75209173f4ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer_Systems/linux/commands/nice.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "815d975bb7138f87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c0dc1a926b84fbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer_Systems/linux/commands/nice.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "50ddb88afc390c97",
+  "lastOpenFiles": [
+    "Computer_Systems/linux/commands/nice.md",
+    "Computer_Systems/linux/commands/taskset.md",
+    "Computer_Systems/linux/commands/vim.md",
+    "Computer_Systems/c/c.md",
+    "Computer_Systems/linux/Linux.md"
+  ]
+}
