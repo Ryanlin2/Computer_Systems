@@ -1,0 +1,3 @@
+Secure Hash Algorithm 1 is a cryptographic hash function that takes an input and produces a 160 bit or 20 byte hash value, often represented as a 40-digit hexadecimal number. it's one of the earlier hash functions developed by the National Security Agency (NSA) and published by the National Institute of Standards and Technology (NIST) in 1993.
+
+SHA-1 processes data in blocks of 512 bits. It divides the input into 512 bit chunks, processes each chunk through a series of operations, and then combines them to produce the final 160 bit hash value. This process involves bitwise operations, logical functions and modulo additions.

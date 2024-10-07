@@ -35,15 +35,12 @@
             "id": "0812dc14e4879e47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Systems/linux/commands/vim.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,11 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50ddb88afc390c97",
+  "active": "3853468befc05166",
   "lastOpenFiles": [
+    "Computer_Systems/c/c_libraries/netinet",
+    "Computer_Systems/c/c_libraries",
     "Computer_Systems/linux/commands/nice.md",
-    "Computer_Systems/linux/commands/taskset.md",
+    "Computer_Systems/Cyptography/sha-1.md",
+    "Computer_Systems/Cyptography",
     "Computer_Systems/linux/commands/vim.md",
+    "Computer_Systems/linux/commands/taskset.md",
     "Computer_Systems/c/c.md",
     "Computer_Systems/linux/Linux.md"
   ]
