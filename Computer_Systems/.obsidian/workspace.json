@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f77804ba71aa9a07",
+            "id": "b82d43de76af67ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/commands/taskset.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#c",
+                "query": "tag:#c_command",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/commands/taskset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/commands/taskset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "linux/commands/taskset.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,16 +156,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "f77804ba71aa9a07",
+  "active": "b82d43de76af67ff",
   "lastOpenFiles": [
+    "c/pointer.md",
+    "c/access a struct variable.md",
+    "c/c.md",
+    "struct.md",
+    "linux/Linux.md",
+    "c/gcc.md",
+    "linux/commands/taskset.md",
     "Cyptography/sha-1.md",
     "Cyptography",
-    "linux/commands/taskset.md",
-    "c/gcc.md",
-    "c/c.md",
-    "linux/Linux.md",
     "linux/commands/vim.md",
-    "Untitled.md",
     "linux/commands",
     "computer hardware",
     "c",
