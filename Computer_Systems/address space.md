@@ -1,0 +1,1 @@
+Range of the memory addresses the OS can access and assign processes to.

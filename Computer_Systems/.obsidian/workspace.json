@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9a76720b70a2d3dc",
+        "id": "d6c584f3aa040840",
         "type": "tabs",
         "children": [
           {
-            "id": "b6ea7d7634e0fee8",
+            "id": "a88a89628ab65c59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "j.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,6 @@
       {
         "id": "22e0d1a4e9a42edf",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "be12c9d9ba1ecd49",
@@ -69,12 +64,11 @@
         ]
       },
       {
-        "id": "4b394f8351434a50",
+        "id": "55241c6d71e83674",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "0b7c1a9b5716d084",
+            "id": "c089a7097c9d2c47",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -85,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 411.50312423706055
   },
   "right": {
     "id": "eeb897cdb170a9d2",
@@ -101,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "j.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "j.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "j.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,31 +169,40 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b6ea7d7634e0fee8",
+  "active": "a88a89628ab65c59",
   "lastOpenFiles": [
-    "j.md",
+    "OS.md",
+    "USB Boot.md",
+    "Command line interface.md",
+    "CPU-Power.md",
+    "microkernel.md",
+    "cache.md",
+    "cache invalidation.md",
+    "CPU cores.md",
+    "affinity.md",
+    "scheduler.md",
+    "CPU.md",
+    "System-level programming/System-level programming.md",
+    "memory allocation.md",
+    "System-level programming/malloc().md",
+    "address space.md",
+    "heap space.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Templates/Description.md",
     "c/pointer.md",
     "c/gcc.md",
     "c/access a struct variable.md",
-    "System-level programming/malloc().md",
-    "System-level programming/System-level programming.md",
     "System-level programming",
     "c/c.md",
     "c/struct.md",
     "Templates",
     "linux/Linux.md",
-    "linux/commands/taskset.md",
-    "Cyptography/sha-1.md",
     "Cyptography",
-    "linux/commands/vim.md",
     "linux/commands",
     "computer hardware",
     "c",
-    "linux",
-    "note a.md",
-    "note b.md",
-    "note d.md",
-    "note c.md",
-    "Welcome.md"
+    "linux"
   ]
 }
