@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6bf0b0479fa847",
+        "id": "9a76720b70a2d3dc",
         "type": "tabs",
         "children": [
           {
-            "id": "b82d43de76af67ff",
+            "id": "b6ea7d7634e0fee8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "j.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,6 +31,7 @@
       {
         "id": "22e0d1a4e9a42edf",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "be12c9d9ba1ecd49",
@@ -62,10 +67,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "4b394f8351434a50",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "0b7c1a9b5716d084",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 382.5
   },
   "right": {
     "id": "eeb897cdb170a9d2",
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "j.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "j.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "j.md"
+              }
             }
           },
           {
@@ -155,14 +179,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "b82d43de76af67ff",
+  "active": "b6ea7d7634e0fee8",
   "lastOpenFiles": [
+    "j.md",
     "c/pointer.md",
-    "c/access a struct variable.md",
-    "c/c.md",
-    "struct.md",
-    "linux/Linux.md",
     "c/gcc.md",
+    "c/access a struct variable.md",
+    "System-level programming/malloc().md",
+    "System-level programming/System-level programming.md",
+    "System-level programming",
+    "c/c.md",
+    "c/struct.md",
+    "Templates",
+    "linux/Linux.md",
     "linux/commands/taskset.md",
     "Cyptography/sha-1.md",
     "Cyptography",

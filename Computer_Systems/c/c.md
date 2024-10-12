@@ -6,5 +6,5 @@ Key features of C:
 
 - **Portability:** Code written in C can often be easily ported to different platforms.
 - **Efficiency:** C is very close to machine code, which makes it fast and efficient.
-- **System-level programming:** It is widely used to write operating systems, embedded systems, and hardware drivers because of its direct access to hardware and memory.
+- **[[System-level programming]]:** It is widely used to write operating systems, embedded systems, and hardware drivers because of its direct access to hardware and memory.
 - **Procedural language:** It follows a structured approach to breaking down tasks into functions and procedures.

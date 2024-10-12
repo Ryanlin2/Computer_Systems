@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "C:\\Users\\Ryanl\\OneDrive\\Desktop\\Documents\\GitHub\\Computer_Systems\\Computer_Systems\\.obsidian\\graph.json",
+      "displayName": "Graph Background",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "/* Make the note content transparent so the graph is visible behind it */\n.workspace-leaf-content {\n    background-color: rgba(0, 0, 0, 0.7); /* Adjust transparency for dark theme */\n    backdrop-filter: blur(5px); /* Optional blur for visibility */\n    z-index: 1; /* Keeps the notes on top of the graph */\n    color: white; /* White text for dark theme visibility */\n}\n\n/* Ensure other workspace elements stay above the graph */\n.workspace-split, .workspace-tab-header, .workspace-header {\n    z-index: 2; /* Keeps these elements above the graph */\n}\n",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

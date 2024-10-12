@@ -1,0 +1,27 @@
+/* Set the global graph view as a fixed background */
+.graph-view {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Places the graph behind other elements */
+    width: 100vw; /* Full-screen width */
+    height: 100vh; /* Full-screen height */
+    opacity: 0.4; /* Adjust transparency of the graph */
+    pointer-events: none; /* Prevents interaction with the graph, so you can interact with the notes */
+}
+
+/* Make the note content in edit mode transparent */
+.cm-content {
+    background-color: rgba(0, 0, 0, 0.2); /* Set background transparency for dark theme */
+    backdrop-filter: blur(5px); /* Optional blur effect for readability */
+    z-index: 1; /* Ensure the notes are on top of the graph */
+    color: white; /* Text color to be visible against dark background */
+}
+
+/* Make the note content in preview mode transparent */
+.markdown-preview-view {
+    background-color: rgba(0, 0, 0, 0.6); /* Set background transparency for dark theme */
+    backdrop-filter: blur(5px); /* Optional blur effect for readability */
+    z-index: 1; /* Ensure the preview notes are on top of the graph */
+    color: white; /* Text color to be visible against dark background */
+}
