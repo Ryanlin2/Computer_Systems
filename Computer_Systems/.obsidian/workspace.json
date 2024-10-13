@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c584f3aa040840",
+        "id": "1c612ec54517b34c",
         "type": "tabs",
         "children": [
           {
-            "id": "a88a89628ab65c59",
+            "id": "b89efad499c5d02b",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3a2004549f61ef1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,6 +40,7 @@
       {
         "id": "22e0d1a4e9a42edf",
         "type": "tabs",
+        "dimension": 66.43026004728132,
         "children": [
           {
             "id": "be12c9d9ba1ecd49",
@@ -61,14 +75,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "55241c6d71e83674",
+        "id": "31861435175f9253",
         "type": "tabs",
+        "dimension": 33.56973995271868,
         "children": [
           {
-            "id": "c089a7097c9d2c47",
+            "id": "3695874209bec2b2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -79,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.50312423706055
+    "width": 325.5
   },
   "right": {
     "id": "eeb897cdb170a9d2",
@@ -95,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Protocol.md"
+              }
             }
           },
           {
@@ -169,40 +189,46 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a88a89628ab65c59",
+  "active": "3a2004549f61ef1d",
   "lastOpenFiles": [
-    "OS.md",
-    "USB Boot.md",
-    "Command line interface.md",
-    "CPU-Power.md",
-    "microkernel.md",
-    "cache.md",
-    "cache invalidation.md",
-    "CPU cores.md",
-    "affinity.md",
-    "scheduler.md",
-    "CPU.md",
-    "System-level programming/System-level programming.md",
-    "memory allocation.md",
-    "System-level programming/malloc().md",
-    "address space.md",
-    "heap space.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "Templates/Description.md",
-    "c/pointer.md",
-    "c/gcc.md",
-    "c/access a struct variable.md",
+    "Protocol.md",
+    "Networks/Internet/Internet Model/Internet Layering 2nd Edition.md",
+    "Networks/Internet/Internet Model/Internet Model.md",
+    "Internet Layering 3rd Edition.md",
+    "Networks/Internet/Internet Layering/Untitled.md",
+    "Pasted image 20241013132435.png",
+    "Pasted image 20241013132409.png",
+    "Networks/Internet/Internet Model/Application Layer.md",
+    "Pasted image 20241013131258.png",
+    "Networks/Internet/Internet Model/Physical Layer.md",
+    "Networks/Internet/Internet Model/Data Link Layer.md",
+    "Networks/Internet/Internet Model/Network Layer.md",
+    "Networks/Internet/Internet Model/Transport Layer.md",
+    "Networks/Internet/Types of Communications/App-to-App communication.md",
+    "Networks/Key Abstractions.md",
+    "Networks/Ethernet.md",
+    "Networks/Design Criteria.md",
+    "Networks/Internet/Internet.md",
+    "Networks/Internet/data form",
+    "Networks/Internet/Internet Model",
+    "Networks/Internet/Untitled.md",
+    "Networks/Internet/Computer Science",
+    "Networks/Exemplars/Exemplars.md",
+    "Networks/Internet",
+    "Networks/Internet/Types of Communications",
+    "Networks/Exemplars",
+    "Networks/HTTP.md",
+    "Networks/Internet/Types of Communications/process-to-process communications.md",
+    "System-level programming/processes.md",
+    "Networks/Internet/Types of Communications/non-direct host-to-host communications.md",
+    "Networks/Internet/Types of Communications/direct host-to-host communications.md",
+    "Networks/Internet/data form/signals.md",
+    "Networks/Internet/data form/bits.md",
+    "Networks/Internet/data form/packets.md",
+    "Networks/Internet/data form/data.md",
+    "Networks",
     "System-level programming",
-    "c/c.md",
-    "c/struct.md",
     "Templates",
-    "linux/Linux.md",
-    "Cyptography",
-    "linux/commands",
-    "computer hardware",
-    "c",
-    "linux"
+    "Cyptography"
   ]
 }

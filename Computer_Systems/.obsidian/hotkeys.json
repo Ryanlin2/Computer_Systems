@@ -14,5 +14,14 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-custom-frames:open-custom-frames-graph-background": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }
