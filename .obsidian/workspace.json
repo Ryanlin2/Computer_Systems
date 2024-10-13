@@ -38,9 +38,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e0ca2ba789f43527",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer_Systems/linux/commands/nice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer_Systems/linux/commands/nice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer_Systems/linux/commands/nice.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,11 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3853468befc05166",
+  "active": "e0ca2ba789f43527",
   "lastOpenFiles": [
+    "Computer_Systems/CPU-Power.md",
+    "Computer_Systems/affinity.md",
+    "awk.md",
+    "Computer_Systems/linux/commands/nice.md",
     "Computer_Systems/c/c_libraries/netinet",
     "Computer_Systems/c/c_libraries",
-    "Computer_Systems/linux/commands/nice.md",
     "Computer_Systems/Cyptography/sha-1.md",
     "Computer_Systems/Cyptography",
     "Computer_Systems/linux/commands/vim.md",
