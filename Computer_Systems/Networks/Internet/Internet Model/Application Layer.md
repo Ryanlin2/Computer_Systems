@@ -6,4 +6,4 @@ tags:
 ### Function
 [[App-to-App communication]]
 
- Receives [[data]] from [[Transport Layer]]
+ sends [[data]] from [[Transport Layer]]

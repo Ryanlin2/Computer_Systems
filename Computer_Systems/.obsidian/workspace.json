@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b89efad499c5d02b",
+            "id": "93f907cc638be7f7",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,12 +16,24 @@
             }
           },
           {
-            "id": "3a2004549f61ef1d",
+            "id": "2f85017977906138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocol.md",
+                "file": "Packet Switching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69c6eb2abf784eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circuit Switching.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "31861435175f9253",
@@ -95,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 278.50390243530273
   },
   "right": {
     "id": "eeb897cdb170a9d2",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocol.md",
+                "file": "Packet Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protocol.md",
+                "file": "Packet Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocol.md"
+                "file": "Packet Switching.md"
               }
             }
           },
@@ -189,23 +200,31 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "3a2004549f61ef1d",
+  "active": "2f85017977906138",
   "lastOpenFiles": [
-    "Protocol.md",
+    "Packet Switching.md",
+    "Circuit Switching.md",
+    "Networks/Internet Fundamentals.md",
+    "Networks/Key Abstractions.md",
+    "Networks/HTTP.md",
+    "Networks/Internet/Protocol.md",
+    "Networks/Internet/Pasted image 20241013132435.png",
+    "Networks/Internet/data form/signals.md",
+    "Networks/Internet/data form/packets.md",
+    "Networks/Internet/data form/data.md",
+    "Networks/Internet/data form/bits.md",
+    "Networks/Internet/Internet Model/Application Layer.md",
     "Networks/Internet/Internet Model/Internet Layering 2nd Edition.md",
     "Networks/Internet/Internet Model/Internet Model.md",
-    "Internet Layering 3rd Edition.md",
+    "Networks/Internet/Internet Layering 3rd Edition.md",
     "Networks/Internet/Internet Layering/Untitled.md",
-    "Pasted image 20241013132435.png",
-    "Pasted image 20241013132409.png",
-    "Networks/Internet/Internet Model/Application Layer.md",
-    "Pasted image 20241013131258.png",
+    "Networks/Internet/Pasted image 20241013132409.png",
+    "Networks/Internet/Pasted image 20241013131258.png",
     "Networks/Internet/Internet Model/Physical Layer.md",
     "Networks/Internet/Internet Model/Data Link Layer.md",
     "Networks/Internet/Internet Model/Network Layer.md",
     "Networks/Internet/Internet Model/Transport Layer.md",
     "Networks/Internet/Types of Communications/App-to-App communication.md",
-    "Networks/Key Abstractions.md",
     "Networks/Ethernet.md",
     "Networks/Design Criteria.md",
     "Networks/Internet/Internet.md",
@@ -217,15 +236,7 @@
     "Networks/Internet",
     "Networks/Internet/Types of Communications",
     "Networks/Exemplars",
-    "Networks/HTTP.md",
     "Networks/Internet/Types of Communications/process-to-process communications.md",
-    "System-level programming/processes.md",
-    "Networks/Internet/Types of Communications/non-direct host-to-host communications.md",
-    "Networks/Internet/Types of Communications/direct host-to-host communications.md",
-    "Networks/Internet/data form/signals.md",
-    "Networks/Internet/data form/bits.md",
-    "Networks/Internet/data form/packets.md",
-    "Networks/Internet/data form/data.md",
     "Networks",
     "System-level programming",
     "Templates",
