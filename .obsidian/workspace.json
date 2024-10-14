@@ -8,47 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50ddb88afc390c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Systems/linux/commands/nice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16b8f17403d9dbd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Systems/linux/commands/taskset.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0812dc14e4879e47",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "e0ca2ba789f43527",
+            "id": "1b65fec4091c6b21",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350.5
   },
   "right": {
     "id": "720def5df4745104",
@@ -171,18 +138,67 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0ca2ba789f43527",
+  "floating": {
+    "id": "cb99b3f391539e4e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a30d4c6b260f5bc1",
+        "type": "window",
+        "children": [
+          {
+            "id": "111ec5a55fbd0fb1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e0ca2ba789f43527",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 553,
+        "y": 427,
+        "width": 1082,
+        "height": 1032,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1b65fec4091c6b21",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Application Layer.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Data Link Layer.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Physical Layer.md",
+    "Computer_Systems/Networks/Internet/data form/bits.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Network Layer.md",
+    "Computer_Systems/Networks/Internet/data form/packets.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Transport Layer.md",
+    "Computer_Systems/Networks/Internet/data form/data.md",
+    "Computer_Systems/Networks/Internet/Types of Communications/App-to-App communication.md",
+    "Computer_Systems/Networks/Internet/Internet Layering 3rd Edition.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Internet Layering 2nd Edition.md",
+    "Computer_Systems/Networks/Internet Fundamentals.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Internet Model.md",
+    "Computer_Systems/Networks/Internet/Internet.md",
+    "Computer_Systems/Networks/Internet/Protocol.md",
+    "Computer_Systems/linux/commands/taskset.md",
+    "Computer_Systems/linux/commands/nice.md",
     "Computer_Systems/CPU-Power.md",
     "Computer_Systems/affinity.md",
     "awk.md",
-    "Computer_Systems/linux/commands/nice.md",
     "Computer_Systems/c/c_libraries/netinet",
     "Computer_Systems/c/c_libraries",
     "Computer_Systems/Cyptography/sha-1.md",
     "Computer_Systems/Cyptography",
     "Computer_Systems/linux/commands/vim.md",
-    "Computer_Systems/linux/commands/taskset.md",
     "Computer_Systems/c/c.md",
     "Computer_Systems/linux/Linux.md"
   ]

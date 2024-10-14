@@ -5,20 +5,27 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "#linux",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "#c",
+      "query": "tag:#Networks-Core-Concept  ",
       "color": {
         "a": 1,
         "rgb": 11007
+      }
+    },
+    {
+      "query": "tag:#Internet  ",
+      "color": {
+        "a": 1,
+        "rgb": 5832959
+      }
+    },
+    {
+      "query": "tag:#Internet-modeling  ",
+      "color": {
+        "a": 1,
+        "rgb": 43775
       }
     }
   ],
@@ -28,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.526041666666667,
-  "repelStrength": 1.25,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.0000000000000047,
+  "linkDistance": 140,
+  "scale": 0.71327546262246,
   "close": false
 }
