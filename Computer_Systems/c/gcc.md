@@ -1,5 +1,18 @@
+---
+tags:
+  - os_class_topic
+---
 #c_command 
-(GNU Compiler Collection), one of the most commonly used compilers on Linux. 
+
+### Description
+---
+(GNU Compiler Collection), one of the most commonly used compilers on [[Linux]]. 
+
+
+
+
+### Code
+---
 Parameters
 - filename of what you want compiled
 - -o is indicating the output file

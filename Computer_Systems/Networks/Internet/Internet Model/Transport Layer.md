@@ -10,6 +10,6 @@ Deals with [[process-to-process communications]]
 
 ### Data Form
 ---
-Receives [[data]]  from [[Application Layer]]
+Receives [[data (transport layer)]]  from [[Application Layer]]
 
-Condenses [[data]] into [[packets]] and sends it to [[Network Layer]]
+Condenses [[data (transport layer)]] into [[packets]] and sends it to [[Network Layer]]

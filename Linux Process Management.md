@@ -1,0 +1,11 @@
+---
+tags:
+  - OS_Class
+---
+---
+- [[top]]
+- [[htop]]
+- [[iotop]]
+- [[ps]]
+- [[kill]]
+- 

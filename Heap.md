@@ -1,0 +1,11 @@
+---
+tags:
+  - OS_Class
+---
+### Description
+---
+The heap is where dynamically allocated memory resides. When a program needs memory during execution, through [[malloc]] in c or new in Java, it comes from the heap. 
+
+### Key Features
+---
+- Shrinks and grows based on the program's needs and become fragmented over time.

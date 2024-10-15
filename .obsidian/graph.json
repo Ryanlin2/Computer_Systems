@@ -1,7 +1,7 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 43775
       }
+    },
+    {
+      "query": "tag:#OS_Class  ",
+      "color": {
+        "a": 1,
+        "rgb": 7935
+      }
+    },
+    {
+      "query": "tag:#os_class_topic  ",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
     }
   ],
   "collapse-display": true,
@@ -35,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.307291666666667,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 140,
-  "scale": 0.71327546262246,
+  "scale": 0.713275462622532,
   "close": false
 }

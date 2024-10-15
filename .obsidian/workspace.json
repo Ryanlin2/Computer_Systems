@@ -4,18 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "418ae8d3b5fe9bfe",
+        "id": "e6f0531c461ecba6",
         "type": "tabs",
         "children": [
           {
-            "id": "1b65fec4091c6b21",
+            "id": "06eb7cf7acfc69a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -65,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "right": {
     "id": "720def5df4745104",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Terminated (Z).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Terminated (Z).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +122,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Terminated (Z).md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -143,63 +150,69 @@
     "type": "floating",
     "children": [
       {
-        "id": "a30d4c6b260f5bc1",
+        "id": "342b44b18dd31805",
         "type": "window",
         "children": [
           {
-            "id": "111ec5a55fbd0fb1",
+            "id": "69f4ee39a975ce06",
             "type": "tabs",
             "children": [
               {
-                "id": "e0ca2ba789f43527",
+                "id": "21e5552ceee4f42e",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Terminated (Z).md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 553,
-        "y": 427,
-        "width": 1082,
-        "height": 1032,
+        "x": 768,
+        "y": 296,
+        "width": 1024,
+        "height": 800,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "1b65fec4091c6b21",
+  "active": "21e5552ceee4f42e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Application Layer.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Data Link Layer.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Physical Layer.md",
-    "Computer_Systems/Networks/Internet/data form/bits.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Network Layer.md",
-    "Computer_Systems/Networks/Internet/data form/packets.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Transport Layer.md",
-    "Computer_Systems/Networks/Internet/data form/data.md",
-    "Computer_Systems/Networks/Internet/Types of Communications/App-to-App communication.md",
-    "Computer_Systems/Networks/Internet/Internet Layering 3rd Edition.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Internet Layering 2nd Edition.md",
-    "Computer_Systems/Networks/Internet Fundamentals.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Internet Model.md",
-    "Computer_Systems/Networks/Internet/Internet.md",
-    "Computer_Systems/Networks/Internet/Protocol.md",
-    "Computer_Systems/linux/commands/taskset.md",
-    "Computer_Systems/linux/commands/nice.md",
-    "Computer_Systems/CPU-Power.md",
-    "Computer_Systems/affinity.md",
-    "awk.md",
+    "Process Lifecycle.md",
+    "Blocked.md",
+    "Waiting.md",
+    "Running (R).md",
+    "Terminated (Z).md",
+    "S.md",
+    "New.md",
+    "PCB.md",
+    "Uninterruptible Sleep (D).md",
+    "Interruptible Sleep (S).md",
+    "data.md",
+    "Computer_Systems/System-level programming/CPU cores.md",
+    "Ready.md",
+    "Process States.md",
+    "Process.md",
+    "Computer_Systems/System-level programming/Process Scheduler.md",
+    "Computer_Systems/System-level programming/System-level programming.md",
+    "Computer_Systems/System-level programming/OS.md",
+    "Computer_Systems/System-level programming/CPU-Power.md",
+    "top.md",
+    "Heap.md",
+    "ps.md",
+    "Memory Segments.md",
+    "Unintitialized Data.md",
+    "Initialized Data.md",
+    "Computer_Systems/Networks/Internet/data form/data (transport layer).md",
+    "Untitled",
     "Computer_Systems/c/c_libraries/netinet",
     "Computer_Systems/c/c_libraries",
-    "Computer_Systems/Cyptography/sha-1.md",
-    "Computer_Systems/Cyptography",
-    "Computer_Systems/linux/commands/vim.md",
-    "Computer_Systems/c/c.md",
-    "Computer_Systems/linux/Linux.md"
+    "Computer_Systems/Cyptography"
   ]
 }
