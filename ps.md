@@ -14,3 +14,9 @@ Display current process, but is not live data.
 ```
 ps aux
 ```
+
+- filter for firefox
+
+```
+ps aux | grep firefox
+```

@@ -14,3 +14,4 @@ A [[Process]] moves through various stages ([[Process States]]) as it executes.
 - [[Waiting]]
 - [[Terminated (Z)]]
 - [[Blocked]]
+- [[Stopped or Traced (T)]]

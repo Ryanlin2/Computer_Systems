@@ -1,2 +1,20 @@
-#linux_command 
-The `nice` command allows you to **adjust the niceness (priority) of a process** when you start it. A process started with `nice` gets less CPU time (if you give it a positive nice value) or more CPU time (if you reduce its nice value). By default, `nice` increases the niceness of a process, giving it lower priority.
+---
+tags:
+  - os_class_topic
+---
+ ### Description
+---
+The `nice` command allows you to **adjust the niceness (priority) of a process** when you start it. 
+
+### Code
+---
+start a process with a specific priority 10/10 nice
+```
+nice -n 10 ./my_program
+```
+
+change priority
+```
+renice -n 5 -p <PID>
+```
+

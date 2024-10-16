@@ -17,7 +17,7 @@ An Operating system is the main software that runs on a computer. It manages all
 [[memory allocation]]
 [[address space]]
 [[Process Scheduler]]
-[[affinity]]
+[[CPU Affinity]]
 [[cache invalidation]]
 [[microkernel]]
 [[CPU-Power]]

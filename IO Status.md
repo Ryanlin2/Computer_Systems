@@ -4,4 +4,4 @@ tags:
 ---
 ### Description
 ---
-Variables that are not explicitly initialized
+I/O devices assigned to the process.

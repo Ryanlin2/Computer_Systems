@@ -27,6 +27,16 @@ Displays a dynamic real-time view of system processes. It shows you which proces
 top
 ```
 
+processes owned by a specific user
+```
+top -u <username>
+```
+
+set delay time to 5 seconds
+```
+top -d 5
+```
+
 ##### navigating
 ---
 quit

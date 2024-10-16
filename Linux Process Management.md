@@ -8,4 +8,4 @@ tags:
 - [[iotop]]
 - [[ps]]
 - [[kill]]
-- 
+- [[nice]]

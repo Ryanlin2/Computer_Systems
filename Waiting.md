@@ -10,3 +10,7 @@ The process cannot proceed because it is waiting for some event or resource.
 ---
 - [[Interruptible Sleep (S)]]
 - [[Uninterruptible Sleep (D)]]
+
+### Key Features
+---
+- Allows [[Efficient CPU Utilization]] and allows [[Context-Switching]]

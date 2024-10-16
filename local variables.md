@@ -4,4 +4,4 @@ tags:
 ---
 ### Description
 ---
-Global Variables that are explicitly initialized 
+Local Variables

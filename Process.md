@@ -6,13 +6,28 @@ tags:
 ---
 An instance of a program in execution.
 
-##### Components
+##### [[Run Types]]
 ---
-- Program code (instructions)
-- data
-- current state of execution
-
+- foreground
+- background
 ### Key Features
 ---
 - [[PID]]
 - [[Memory Segments]]
+
+### Pausing and Resuming 
+---
+pause
+
+CTRL + z
+
+resume
+```
+bg
+```
+
+resume in foreground 
+```
+fg
+```
+
