@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f699710e33958f17",
+        "id": "62699871a157de1f",
         "type": "tabs",
         "children": [
           {
-            "id": "f2988c46ed55ae6d",
+            "id": "e9f482978a889893",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Threads.md",
+                "file": "Computer_Systems/Networks/Internet/Internet Model/Application Layer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d637a9814ffb3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Systems/Networks/Internet/Types of Communications/App-to-App communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a08c70d30bc4cbb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer_Systems/Networks/Internet/Types of Communications/process-to-process communications.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -70,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "720def5df4745104",
@@ -169,43 +193,53 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "x": 1280,
+        "y": 696,
+        "width": 1280,
+        "height": 696,
+        "maximize": false,
         "zoom": 0.5
       }
     ]
   },
   "active": "9d9aa0b06a0e260e",
   "lastOpenFiles": [
-    "Context-Switching.md",
+    "Computer_Systems/Networks/Internet/Types of Communications/process-to-process communications.md",
+    "C Principles.md",
+    "Process.md",
+    "Computer_Systems/System-level programming/processes.md",
+    "Computer_Systems/Networks/Internet/Types of Communications/App-to-App communication.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Application Layer.md",
+    "Computer_Systems/Networks/Internet/data form/Packets.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Network Layer.md",
+    "Packet Building.md",
+    "Packet Cost.md",
+    "Multiple Packets.md",
+    "Pasted image 20241016121118.png",
+    "Pasted image 20241016121047.png",
+    "Pasted image 20241016121012.png",
+    "TCP.md",
+    "Computer_Systems/Networks/Ethernet.md",
+    "Pasted image 20241016120615.png",
+    "Pasted image 20241016120419.png",
+    "Pasted image 20241016120324.png",
+    "Pasted image 20241016120256.png",
+    "Computer_Systems/Networks/HTTP.md",
+    "Computer_Systems/Packet Switching.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Internet Model.md",
+    "Pasted image 20241016115529.png",
+    "Circuits.md",
+    "Computer_Systems/Networks/Internet/Internet Model/Data Link Layer.md",
+    "Pasted image 20241016112646.png",
+    "IP.md",
+    "Pasted image 20241016105751.png",
+    "IPv4.md",
+    "Computer_Systems/Templates/internet subject template.md",
+    "Untitled 5.md",
+    "Computer_Systems/Templates/Networks Core Template.md",
+    "Computer_Systems/Networks/Design Criteria.md",
     "Threads.md",
-    "Fork.md",
-    "Process Migration.md",
-    "NUMA Systems.md",
-    "Cache Thrashing Reduction.md",
-    "Computer_Systems/System-level programming/cache invalidation.md",
-    "Buffer Overflows.md",
-    "Computer_Systems/System-level programming/Process Scheduler.md",
-    "CPU Affinity.md",
     "PCB.md",
-    "Computer_Systems/System-level programming/OS.md",
-    "Hard Affinity.md",
-    "Soft Affinity.md",
-    "CPU Mask.md",
-    "Computer_Systems/System-level programming/CPU cores.md",
-    "Computer_Systems/System-level programming/affinity.md",
-    "Computer_Systems/linux/Linux.md",
-    "Linux Modes.md",
-    "User Mode.md",
-    "System Calls.md",
-    "strace.md",
-    "Memory Management.md",
-    "Linux-Commands.md",
-    "Process Management.md",
-    "Linux Process Management.md",
     "I",
     "Untitled",
     "Computer_Systems/c/c_libraries/netinet",

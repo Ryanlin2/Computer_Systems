@@ -1,4 +1,8 @@
+---
+tags:
+  - Internet-modeling
+---
 
-bridges communications between [[processes]]
+bridges communications between [[Process|processes]]
 
 [[TCP]] [[UDP]]

@@ -11,7 +11,7 @@
       "query": "tag:#Networks-Core-Concept  ",
       "color": {
         "a": 1,
-        "rgb": 11007
+        "rgb": 16639
       }
     },
     {
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "centerStrength": 0.38886827458256,
+  "repelStrength": 10.4371057513915,
+  "linkStrength": 0.517031539888683,
   "linkDistance": 30,
-  "scale": 0.03408574896700965,
+  "scale": 0.7132754626226738,
   "close": false
 }

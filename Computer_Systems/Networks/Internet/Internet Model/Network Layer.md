@@ -10,6 +10,6 @@ Deals with [[non-direct host-to-host communications]]
 
 ### Data Form
 ---
-Receives [[packets]] from [[Transport Layer]]
+Receives [[Packets]] from [[Transport Layer]]
 
-sends the [[packets]] though [[Data Link Layer]]
+sends the [[Packets]] though [[Data Link Layer]]
