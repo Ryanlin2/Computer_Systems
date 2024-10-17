@@ -12,7 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -21,10 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packet Switching.md",
+                "file": "Templates/Examples Template.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Examples Template"
             }
           },
           {
@@ -36,7 +40,9 @@
                 "file": "Circuit Switching.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Circuit Switching"
             }
           }
         ],
@@ -61,7 +67,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +84,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -99,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Packet Switching.md",
+                "file": "Templates/Examples Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Examples Template"
             }
           },
           {
@@ -139,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Packet Switching.md",
+                "file": "Templates/Examples Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Examples Template"
             }
           },
           {
@@ -153,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Packet Switching.md"
-              }
+                "file": "Templates/Examples Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Examples Template"
             }
           },
           {
@@ -171,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
-              "state": {}
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -179,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "juggl_style",
-              "state": {}
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ]
@@ -202,8 +228,11 @@
   },
   "active": "2f85017977906138",
   "lastOpenFiles": [
-    "Packet Switching.md",
+    "Templates/Key Features Template.md",
+    "Templates/os Properties Template.md",
+    "Templates/topic Properties Template.md",
     "Circuit Switching.md",
+    "Packet Switching.md",
     "Networks/Internet Fundamentals.md",
     "Networks/Key Abstractions.md",
     "Networks/HTTP.md",
@@ -230,13 +259,10 @@
     "Networks/Internet/Internet.md",
     "Networks/Internet/data form",
     "Networks/Internet/Internet Model",
-    "Networks/Internet/Untitled.md",
     "Networks/Internet/Computer Science",
-    "Networks/Exemplars/Exemplars.md",
     "Networks/Internet",
     "Networks/Internet/Types of Communications",
     "Networks/Exemplars",
-    "Networks/Internet/Types of Communications/process-to-process communications.md",
     "Networks",
     "System-level programming",
     "Templates",
