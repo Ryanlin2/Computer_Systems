@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "62699871a157de1f",
+        "id": "bb7dec23fd7cc4db",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f482978a889893",
+            "id": "98e9a69809c5b63e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Systems/Networks/Internet/Internet Model/Application Layer.md",
+                "file": "ASLR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d637a9814ffb3b6",
+            "id": "6f9873d53db168b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer_Systems/Networks/Internet/Types of Communications/App-to-App communication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a08c70d30bc4cbb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer_Systems/Networks/Internet/Types of Communications/process-to-process communications.md",
+                "file": "Virtual page lookup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Virtual page lookup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Virtual page lookup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Virtual page lookup.md"
+              }
             }
           }
         ],
@@ -197,50 +189,50 @@
         "y": 696,
         "width": 1280,
         "height": 696,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0.5
       }
     ]
   },
-  "active": "9d9aa0b06a0e260e",
+  "active": "6f9873d53db168b6",
   "lastOpenFiles": [
-    "Computer_Systems/Networks/Internet/Types of Communications/process-to-process communications.md",
-    "C Principles.md",
-    "Process.md",
-    "Computer_Systems/System-level programming/processes.md",
-    "Computer_Systems/Networks/Internet/Types of Communications/App-to-App communication.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Application Layer.md",
-    "Computer_Systems/Networks/Internet/data form/Packets.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Network Layer.md",
-    "Packet Building.md",
-    "Packet Cost.md",
-    "Multiple Packets.md",
-    "Pasted image 20241016121118.png",
-    "Pasted image 20241016121047.png",
-    "Pasted image 20241016121012.png",
-    "TCP.md",
-    "Computer_Systems/Networks/Ethernet.md",
-    "Pasted image 20241016120615.png",
-    "Pasted image 20241016120419.png",
-    "Pasted image 20241016120324.png",
-    "Pasted image 20241016120256.png",
-    "Computer_Systems/Networks/HTTP.md",
-    "Computer_Systems/Packet Switching.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Internet Model.md",
-    "Pasted image 20241016115529.png",
-    "Circuits.md",
-    "Computer_Systems/Networks/Internet/Internet Model/Data Link Layer.md",
-    "Pasted image 20241016112646.png",
-    "IP.md",
-    "Pasted image 20241016105751.png",
-    "IPv4.md",
-    "Computer_Systems/Templates/internet subject template.md",
-    "Untitled 5.md",
-    "Computer_Systems/Templates/Networks Core Template.md",
-    "Computer_Systems/Networks/Design Criteria.md",
-    "Threads.md",
-    "PCB.md",
-    "I",
+    "Computer_Systems/System Calls.md",
+    "Computer_Systems/starvation.md",
+    "Computer_Systems/Priority Scheduling.md",
+    "Virtual page lookup.md",
+    "ASLR.md",
+    "Computer_Systems/TCP.md",
+    "Computer_Systems/top.md",
+    "Computer_Systems/Multi-level Queue Scheduling.md",
+    "Computer_Systems/Fork.md",
+    "Computer_Systems/Cache Thrashing Reduction.md",
+    "Computer_Systems/Process Migration.md",
+    "Computer_Systems/Context-Switching.md",
+    "Computer_Systems/NUMA Systems.md",
+    "Computer_Systems/System-level programming/Process Scheduler.md",
+    "Computer_Systems/Blocked.md",
+    "Computer_Systems/Running (R).md",
+    "Computer_Systems/Ready.md",
+    "Computer_Systems/New.md",
+    "Computer_Systems/Stack.md",
+    "Computer_Systems/PID.md",
+    "Computer_Systems/Stack Segment.md",
+    "Computer_Systems/Process.md",
+    "Computer_Systems/Memory Segments.md",
+    "Computer_Systems/aging.md",
+    "Computer_Systems/%MEM.md",
+    "Computer_Systems/ps.md",
+    "Computer_Systems/Pasted image 20241016121118.png",
+    "Computer_Systems/Pasted image 20241016121047.png",
+    "Computer_Systems/Pasted image 20241016121012.png",
+    "Computer_Systems/Pasted image 20241016120615.png",
+    "Computer_Systems/Pasted image 20241016120419.png",
+    "Computer_Systems/Pasted image 20241016120324.png",
+    "Computer_Systems/Pasted image 20241016120256.png",
+    "Computer_Systems/Pasted image 20241016115529.png",
+    "Computer_Systems/Pasted image 20241016112646.png",
+    "Computer_Systems/Pasted image 20241016105751.png",
+    "Computer_Systems/I",
     "Untitled",
     "Computer_Systems/c/c_libraries/netinet",
     "Computer_Systems/c/c_libraries",

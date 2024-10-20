@@ -5,5 +5,5 @@ tags:
 ---
 - [[cat]]
 - [[nano]]
-- [[vim]]
+- [[Computer_Systems/Vim]]
 - [[less]]

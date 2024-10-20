@@ -5,7 +5,7 @@ tags:
 ### Description
 ---
 Memory is divided into [[Memory Segments]]
-In C we are able to manually mange memory using commands like [[malloc]] and [[free]]. 
+In C we are able to manually mange memory using commands like [[Computer_Systems/malloc]] and [[free]]. 
 
 ### Code
 ---
