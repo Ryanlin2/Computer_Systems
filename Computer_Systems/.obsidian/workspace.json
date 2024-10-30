@@ -4,43 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "1c612ec54517b34c",
+        "id": "fe6254ead4079296",
         "type": "tabs",
         "children": [
           {
-            "id": "93f907cc638be7f7",
+            "id": "75e9a44c87e558f6",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "2f85017977906138",
+            "id": "3fdad34c73bbc36f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Packet Switching.md",
+                "file": "OS/CPU Affinity.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CPU Affinity"
             }
           },
           {
-            "id": "69c6eb2abf784eb6",
+            "id": "461240fc6450daa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circuit Switching.md",
+                "file": "OS/Memory Segments.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Memory Segments"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -76,7 +83,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -84,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -99,14 +110,17 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.50390243530273
+    "width": 278.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "eeb897cdb170a9d2",
@@ -122,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Packet Switching.md",
+                "file": "Circuit Switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Circuit Switching"
             }
           },
           {
@@ -139,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Packet Switching.md",
+                "file": "Circuit Switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Circuit Switching"
             }
           },
           {
@@ -153,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -162,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Packet Switching.md"
-              }
+                "file": "Circuit Switching.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Circuit Switching"
             }
           },
           {
@@ -171,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
-              "state": {}
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -179,7 +203,9 @@
             "type": "leaf",
             "state": {
               "type": "juggl_style",
-              "state": {}
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ]
@@ -200,10 +226,15 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "2f85017977906138",
+  "active": "75e9a44c87e558f6",
   "lastOpenFiles": [
+    "OS/CPU Affinity.md",
+    "OS/Memory Segments.md",
+    "OS/Zsh.md",
+    "OS",
+    "OS/aging.md",
+    "OS/Circuit Switching.md",
     "Packet Switching.md",
-    "Circuit Switching.md",
     "Networks/Internet Fundamentals.md",
     "Networks/Key Abstractions.md",
     "Networks/HTTP.md",
@@ -227,19 +258,14 @@
     "Networks/Internet/Types of Communications/App-to-App communication.md",
     "Networks/Ethernet.md",
     "Networks/Design Criteria.md",
-    "Networks/Internet/Internet.md",
     "Networks/Internet/data form",
     "Networks/Internet/Internet Model",
-    "Networks/Internet/Untitled.md",
     "Networks/Internet/Computer Science",
-    "Networks/Exemplars/Exemplars.md",
     "Networks/Internet",
     "Networks/Internet/Types of Communications",
     "Networks/Exemplars",
-    "Networks/Internet/Types of Communications/process-to-process communications.md",
     "Networks",
     "System-level programming",
-    "Templates",
-    "Cyptography"
+    "Templates"
   ]
 }
