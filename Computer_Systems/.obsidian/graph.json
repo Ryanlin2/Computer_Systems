@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#os_class_topic  ",
+      "query": "tag:#OS_class ",
       "color": {
         "a": 1,
-        "rgb": 9175295
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag:#Internet-modeling  ",
+      "query": "",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.488589558054102,
-  "repelStrength": 12.4791272403429,
-  "linkStrength": 0.654829492745557,
-  "linkDistance": 30,
-  "scale": 1.5360506568132437,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.3738043046038717,
   "close": true
 }

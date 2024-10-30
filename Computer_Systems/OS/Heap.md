@@ -4,7 +4,7 @@ tags:
 ---
 ### Description
 ---
-The heap is where dynamically allocated memory resides. When a program needs memory during execution, through [[Computer_Systems/malloc]] in c or new in Java, it comes from the heap. 
+The heap is where dynamically allocated memory resides. When a program needs memory during execution, through [[System-level programming/malloc|malloc]] in c or new in Java, it comes from the heap. 
 
 You also need to deallocate [[free]]
 

@@ -228,6 +228,8 @@
   },
   "active": "75e9a44c87e558f6",
   "lastOpenFiles": [
+    "System-level programming/Process Scheduler.md",
+    "OS/TCP.md",
     "OS/CPU Affinity.md",
     "OS/Memory Segments.md",
     "OS/Zsh.md",
@@ -256,8 +258,6 @@
     "Networks/Internet/Internet Model/Network Layer.md",
     "Networks/Internet/Internet Model/Transport Layer.md",
     "Networks/Internet/Types of Communications/App-to-App communication.md",
-    "Networks/Ethernet.md",
-    "Networks/Design Criteria.md",
     "Networks/Internet/data form",
     "Networks/Internet/Internet Model",
     "Networks/Internet/Computer Science",
