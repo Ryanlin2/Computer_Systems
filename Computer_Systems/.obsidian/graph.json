@@ -11,7 +11,7 @@
       "query": "tag:#OS_class ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 7426784
       }
     },
     {
@@ -32,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.3738043046038717,
+  "scale": 0.9031806421852522,
   "close": true
 }
